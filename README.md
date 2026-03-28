@@ -15,6 +15,4 @@ EduSmart adalah sebuah *landing page* responsif yang dirancang untuk mempromosik
 * **CSS3:** Untuk styling, Flexbox, dan Grid Layout.
 * **Google Fonts:** Menggunakan font 'Poppins' agar tampilan lebih modern.
 
-## Demo Live
-[https://username-kamu.github.io/nama-repo-kamu/](https://username-kamu.github.io/nama-repo-kamu/)
 
