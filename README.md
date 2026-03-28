@@ -1,6 +1,6 @@
 # Laporan Proyek Web: dxktbd tutor
 
-Visit site: https://fathurdxs.github.io/tugas_htmlcss/
+Visit site: https://fathurdxs.github.io/dxktbd_tutor/
 
 Proyek ini adalah implementasi *Landing Page* untuk platform kursus online bernama **dxktbd tutor**. Proyek ini dikembangkan menggunakan teknologi web dasar (HTML5 & CSS3) dengan fokus pada aspek *responsiveness*, *user experience*, dan estetika desain modern.
 ---
